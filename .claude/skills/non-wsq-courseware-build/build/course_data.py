@@ -221,7 +221,7 @@ COURSE_OVERVIEW = dict(
 NEXT_STEPS = dict(
     title="Preparing for the ITIL 4 Foundation Exam",
     items=[
-        "Your course fee includes an official ITIL 4 Foundation exam voucher — book your exam while the material is fresh.",
+        "An official ITIL 4 Foundation exam voucher is included with this course — book your exam while the material is fresh.",
         "Review the key concepts and definitions in each topic of the Learner Guide.",
         "Re-read the seven guiding principles and be able to apply each to a scenario.",
         "Memorise the purpose statements of the ITIL practices covered in Topic 5.",
