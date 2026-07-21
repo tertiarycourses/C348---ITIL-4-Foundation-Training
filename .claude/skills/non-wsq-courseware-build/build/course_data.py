@@ -12,10 +12,10 @@ domains so students who take the course can pass the ITIL 4 Foundation exam.
 """
 
 # ------------------------------------------------------------------ metadata
-TITLE        = "ITIL 4 Foundation Training (Voucher Included)"
+TITLE        = "ITIL 4 Foundation Training"
 SHORT_TITLE  = "ITIL 4 Foundation Training"   # used in output filenames
 COURSE_CODE  = "C348"
-VERSION      = "v1.0"
+VERSION      = "v1.1"
 VERSION_DATE = "21 July 2026"
 ORG          = "Tertiary Infotech Academy Pte Ltd"
 UEN          = "UEN: 201200696W"
@@ -356,8 +356,11 @@ LG_GLOSSARY = [
 
 # ------------------------------------------------------------------ version history
 VERSION_HISTORY = [
-    ("1.0", VERSION_DATE,
+    ("1.0", "21 July 2026",
      "Initial non-WSQ release (C348), mirrored from the ITIL 4 Foundation master courseware: "
      "five topics across three days, eight group labs on the BrightDesk Services scenario, and "
      "exam preparation for the included ITIL 4 Foundation exam voucher.", TRAINER),
+    ("1.1", VERSION_DATE,
+     "Course title simplified to 'ITIL 4 Foundation Training' (voucher wording removed from "
+     "the document covers; the voucher itself is unchanged).", TRAINER),
 ]

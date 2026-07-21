@@ -1,6 +1,6 @@
-# ITIL 4 Foundation Training (Voucher Included) — Learner Guide
+# ITIL 4 Foundation Training — Learner Guide
 
-**Course Code:** C348  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v1.0 · 21 July 2026**
+**Course Code:** C348  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v1.1 · 21 July 2026**
 
 ## Contents
 
