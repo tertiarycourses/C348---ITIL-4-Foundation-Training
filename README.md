@@ -2,7 +2,7 @@
 
 > Course: ITIL 4 Foundation Training (Voucher Included)
 > Course Code: C348
-> Conducted by Tertiary Infotech Academy Pte Ltd — https://www.tertiarycourses.com.sg
+> Register here: https://www.tertiarycourses.com.sg/itil-4-foundation-it-service-management-exam-prep.html
 
 Hands-on ITIL 4 Foundation labs for learners preparing to understand modern IT service management, apply ITIL concepts in realistic service scenarios, and sit the official ITIL 4 Foundation exam (an exam voucher is included with the course). The labs cover service management concepts, value co-creation, utility and warranty, the seven guiding principles, the four dimensions, the service value system, the service value chain, continual improvement, incident management, problem management, service request management, service desk, service level management, change enablement, and exam review.
 
@@ -47,7 +47,7 @@ Hands-on ITIL 4 Foundation labs for learners preparing to understand modern IT s
 - [ITIL 4 Foundation Study Guide](https://passitexams.com/study-guide/itil-4-foundation/)
 - [ITIL 4 Foundation Practice Exam](https://exams.tertiaryinfotech.com/practice-exams/axelos/axelos-itil4-foundation)
 - [PeopleCert ITIL Certifications](https://www.peoplecert.org/itil)
-- [Tertiary Courses Singapore](https://www.tertiarycourses.com.sg)
+- [Course Registration](https://www.tertiarycourses.com.sg/itil-4-foundation-it-service-management-exam-prep.html)
 
 ## Free Tools Used
 
